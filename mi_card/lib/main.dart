@@ -57,22 +57,22 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Card(
-                  margin:
-                      EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
-                  child: ListTile(
-                    leading: Icon(
-                      Icons.phone,
+                margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
+                child: ListTile(
+                  leading: Icon(
+                    Icons.phone,
+                    color: Colors.blueGrey[900],
+                  ),
+                  title: Text(
+                    '518 331 4970',
+                    style: TextStyle(
+                      fontFamily: 'Source Sans Pro',
+                      fontSize: 20.0,
                       color: Colors.blueGrey[900],
                     ),
-                    title: Text(
-                      '518 331 4970',
-                      style: TextStyle(
-                        fontFamily: 'Source Sans Pro',
-                        fontSize: 20.0,
-                        color: Colors.blueGrey[900],
-                      ),
-                    ),
-                  )),
+                  ),
+                ),
+              ),
               Card(
                 margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                 child: ListTile(
