@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6deee3cd-ccd2-490f-a53f-796a1189802e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/4548f2b21fc49cf6a97881cad38ea2a7/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4548f2b21fc49cf6a97881cad38ea2a7/.filecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/4548f2b21fc49cf6a97881cad38ea2a7/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4548f2b21fc49cf6a97881cad38ea2a7/app.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/8501cbaf4a9985db215ea57baf0d3436/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/8501cbaf4a9985db215ea57baf0d3436/.filecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/8501cbaf4a9985db215ea57baf0d3436/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/8501cbaf4a9985db215ea57baf0d3436/app.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-    </list>
+    <list default="true" id="6deee3cd-ccd2-490f-a53f-796a1189802e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +13,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_28" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../flutter/packages/flutter/lib/src/widgets/framework.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1256">
-              <caret line="402" column="49" selection-start-line="400" selection-start-column="11" selection-end-line="402" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -74,11 +36,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1680" />
-    <option name="y" value="-367" />
-    <option name="width" value="3440" />
-    <option name="height" value="1417" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="210" />
+    <option name="y" value="131" />
+    <option name="width" value="1260" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -89,30 +51,14 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mi_card" type="b2602c69:ProjectViewProjectNode" />
               <item name="mi_card" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mi_card" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mi_card" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mi_card" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mi_card" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mi_card" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mi_card" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,11 +123,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-367" width="3440" height="1417" extended-state="6" />
-    <editor active="true" />
+    <frame x="210" y="131" width="1260" height="788" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.07798705" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18883416" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -202,7 +147,7 @@
       <window_info anchor="bottom" id="Find" order="10" weight="0.32981133" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Flutter Inspector" order="2" visible="true" weight="0.09888169" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" visible="true" weight="0.098522164" />
       <window_info anchor="right" id="Flutter Outline" order="3" weight="0.32967034" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Flutter Performance" order="5" weight="0.32960564" />
@@ -244,8 +189,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../flutter/packages/flutter/lib/src/widgets/framework.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1256">
-          <caret line="402" column="49" selection-start-line="400" selection-start-column="11" selection-end-line="402" selection-end-column="49" />
+        <state relative-caret-position="94">
+          <caret line="296" column="5" selection-start-line="296" selection-start-column="5" selection-end-line="296" selection-end-column="5" />
         </state>
       </provider>
     </entry>
