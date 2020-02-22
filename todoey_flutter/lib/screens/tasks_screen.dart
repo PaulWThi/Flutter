@@ -1,21 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:todoey_flutter/widgets/task_list.dart';
 import 'add_task_screen.dart';
-import 'package:todoey_flutter/models/task.dart';
+import 'package:todoey_flutter/models/task_data.dart';
 
-class TasksScreen extends StatefulWidget {
-  @override
-  _TasksScreenState createState() => _TasksScreenState();
-}
-
-class _TasksScreenState extends State<TasksScreen> {
-  List<Task> tasks = [
-    Task(name: 'Buy Milk'),
-    Task(name: 'Buy Eggs'),
-    Task(name: 'Buy Meat'),
-  ];
-
-  @override
+class TasksScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.lightBlueAccent,
@@ -27,14 +16,7 @@ class _TasksScreenState extends State<TasksScreen> {
             builder: (context) => SingleChildScrollView(
               padding: EdgeInsets.only(
                   bottom: MediaQuery.of(context).viewInsets.bottom),
-              child: AddTaskScreen(
-                addTaskCallback: (taskTitle) {
-                  setState(() {
-                    tasks.add(Task(name: taskTitle));
-                  });
-                  Navigator.pop(context);
-                },
-              ),
+              child: AddTaskScreen(),
             ),
           );
           print('FAB Pressed');
@@ -72,7 +54,7 @@ class _TasksScreenState extends State<TasksScreen> {
                   ),
                 ),
                 Text(
-                  '${tasks.length} Tasks',
+                  '${Provider.of<ListOfTasks>(context).taskCount} Tasks',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 18.0,
@@ -91,7 +73,7 @@ class _TasksScreenState extends State<TasksScreen> {
                   topRight: Radius.circular(20.0),
                 ),
               ),
-              child: TaskList(tasks: tasks),
+              child: TaskList(),
             ),
           )
         ],
